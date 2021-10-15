@@ -1,0 +1,11 @@
+{
+    "hosting": {
+        "site": "raufuprezens",
+        "public": "build",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    }
+}
