@@ -1,16 +1,11 @@
-import logo from './images/logo.png';
 import './App.css';
+import Home from './Components/Homepage/Home/Home';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Raufu Prezens Inc.
-        </p>
-      </header>
-    </div>
+    <>
+      <Home />
+    </>
   );
 }
 

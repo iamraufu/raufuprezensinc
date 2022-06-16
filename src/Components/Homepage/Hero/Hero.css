@@ -1,0 +1,13 @@
+.hero-title {
+    font-size: 36px;
+    line-height: 52px;
+    color: #26252e;
+    font-weight: 700;
+    margin: 12rem 0;
+}
+
+.hero-image {
+    max-width: 80% !important;
+    margin: auto;
+    display: block;
+}

@@ -1,0 +1,46 @@
+[{
+        "id": "1",
+        "name": "Home",
+        "route": "/"
+    },
+    {
+        "id": "2",
+        "name": "About",
+        "route": "/"
+    },
+    {
+        "id": "3",
+        "name": "Technology",
+        "route": "/"
+    },
+    {
+        "id": "4",
+        "name": "Capabilities",
+        "route": "/"
+    },
+    {
+        "id": "5",
+        "name": "Clients",
+        "route": "/"
+    },
+    {
+        "id": "6",
+        "name": "Blogs",
+        "route": "/"
+    },
+    {
+        "id": "7",
+        "name": "News",
+        "route": "/"
+    },
+    {
+        "id": "8",
+        "name": "FAQ's",
+        "route": "/"
+    },
+    {
+        "id": "9",
+        "name": "Contact",
+        "route": "/"
+    }
+]
