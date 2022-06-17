@@ -6,41 +6,41 @@
     {
         "id": "2",
         "name": "About",
-        "route": "/"
+        "route": "/about"
     },
     {
         "id": "3",
         "name": "Technology",
-        "route": "/"
+        "route": "/technology"
     },
     {
         "id": "4",
         "name": "Capabilities",
-        "route": "/"
+        "route": "/capabilities"
     },
     {
         "id": "5",
         "name": "Clients",
-        "route": "/"
+        "route": "/clients"
     },
     {
         "id": "6",
         "name": "Blogs",
-        "route": "/"
+        "route": "/blogs"
     },
     {
         "id": "7",
         "name": "News",
-        "route": "/"
+        "route": "/news"
     },
     {
         "id": "8",
         "name": "FAQ's",
-        "route": "/"
+        "route": "/faqs"
     },
     {
         "id": "9",
         "name": "Contact",
-        "route": "/"
+        "route": "/contact"
     }
 ]
